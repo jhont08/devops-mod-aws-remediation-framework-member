@@ -1,0 +1,4 @@
+# These users will be requested for
+# review when someone opens a pull request.
+* @avaldigitallabs/devops-infrastructure-knights @avaldigitallabs/devops-infrastructure-masters
+.github    @avaldigitallabs/devops-automation-knights @avaldigitallabs/devops-automation-masters
